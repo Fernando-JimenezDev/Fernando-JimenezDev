@@ -13,4 +13,4 @@
 - Coming soon...
 
 ## 📫 Contact
-- Email: tu-correo@gmail.com
+- Email: fjimenez.dev@gmail.com
